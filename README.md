@@ -1,3 +1,17 @@
+![bg-hero-mobile](https://user-images.githubusercontent.com/105289484/174479851-6516e469-f32f-4099-a9d4-9dc71fd9ae16.svg)
+![favicon-32x32](https://user-images.githubusercontent.com/105289484/174479852-97c0bde0-b2ff-46ae-a2c2-95cf91e801ae.png)
+![icon-email](https://user-images.githubusercontent.com/105289484/174479855-76122e99-9001-4bbc-ae00-fef984a320af.svg)
+![icon-location](https://user-images.githubusercontent.com/105289484/174479857-91bd18a6-32b6-4486-b538-3009df3c24e2.svg)
+![icon-phone](https://user-images.githubusercontent.com/105289484/174479860-ce8b7edb-3fec-4b59-96be-cecaa68a8983.svg)
+![illustration-flowing-conversation](https://user-images.githubusercontent.com/105289484/174479862-0190ff4a-9415-43e5-a9af-c17ea8609e56.svg)
+![illustration-grow-together](https://user-images.githubusercontent.com/105289484/174479864-3a726dc9-f5df-4167-82e2-7d0dc757f5f4.svg)
+![illustration-mockups](https://user-images.githubusercontent.com/105289484/174479865-c390e7a8-d447-443b-8359-9d6cb8c8a412.svg)
+![illustration-your-users](https://user-images.githubusercontent.com/105289484/174479867-cca71185-ae12-4577-bc48-cc539e7f732a.svg)
+![logo](https://user-images.githubusercontent.com/105289484/174479868-46eeda23-a2dd-4d3f-80b1-d988961a1e79.svg)
+![active-states](https://user-images.githubusercontent.com/105289484/174479890-aaa9b330-7f2b-44b8-8c5a-2ae7f9ef26d4.jpg)
+![desktop-design](https://user-images.githubusercontent.com/105289484/174479891-6399cefd-db5f-4059-ab13-6d68559843ea.jpg)
+![desktop-preview](https://user-images.githubusercontent.com/105289484/174479892-73030ab6-cad9-491e-9cb2-705d0b966928.jpg)
+![mobile-design](https://user-images.githubusercontent.com/105289484/174479893-11b4474d-2da4-4d4c-b236-988aefcc1e52.jpg)
 # Huddle.html
 <html lang="en">
   <head>
